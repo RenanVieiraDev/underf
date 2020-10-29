@@ -1,0 +1,17 @@
+html{height: 100%;}
+body{
+    background-color: black;
+    padding: 0px;
+    height: 100%;
+}
+#mapa{
+    background-color: #fff;
+    width: 100%;
+    height: 90%;
+}
+#controle{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 150px;
+}
